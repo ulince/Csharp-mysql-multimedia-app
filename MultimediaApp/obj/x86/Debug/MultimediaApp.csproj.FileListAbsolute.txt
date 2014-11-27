@@ -1,0 +1,10 @@
+c:\users\me\documents\visual studio 2010\Projects\MultimediaApp\MultimediaApp\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\me\documents\visual studio 2010\Projects\MultimediaApp\MultimediaApp\obj\x86\Debug\MultimediaApp.Form1.resources
+c:\users\me\documents\visual studio 2010\Projects\MultimediaApp\MultimediaApp\obj\x86\Debug\MultimediaApp.Properties.Resources.resources
+c:\users\me\documents\visual studio 2010\Projects\MultimediaApp\MultimediaApp\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\me\documents\visual studio 2010\Projects\MultimediaApp\MultimediaApp\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\me\documents\visual studio 2010\Projects\MultimediaApp\MultimediaApp\bin\Debug\MultimediaApp.exe
+c:\users\me\documents\visual studio 2010\Projects\MultimediaApp\MultimediaApp\bin\Debug\MultimediaApp.pdb
+c:\users\me\documents\visual studio 2010\Projects\MultimediaApp\MultimediaApp\obj\x86\Debug\MultimediaApp.exe
+c:\users\me\documents\visual studio 2010\Projects\MultimediaApp\MultimediaApp\obj\x86\Debug\MultimediaApp.pdb
+C:\Users\Me\Documents\Visual Studio 2010\Projects\MultimediaApp\MultimediaApp\bin\Debug\MultimediaApp.exe.config
